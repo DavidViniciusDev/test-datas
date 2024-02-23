@@ -1,0 +1,34 @@
+{
+  "competences": [
+    {
+      "competence": "02-2024",
+      "amount": 70.9,
+      "status": "FATURADO",
+      "id": "7399"
+    },
+    {
+      "competence": "03-2024",
+      "amount": 70.9,
+      "status": "ANTECIPADO",
+      "id": "d29d"
+    },
+    {
+      "competence": "04-2024",
+      "amount": 70.9,
+      "status": "ANTECIPADO",
+      "id": "e7a8"
+    },
+    {
+      "competence": "05-2024",
+      "amount": 70.9,
+      "status": "PENDENTE",
+      "id": "98ac"
+    },
+    {
+      "competence": "06-2024",
+      "amount": 70.9,
+      "status": "PENDENTE",
+      "id": "d25d"
+    }    
+  ]
+}
